@@ -19,10 +19,7 @@
   "accentColor": "rose",
   "repoUrl": "https://github.com/weztcy/E-Parking-Mobile-App-UIUX-Design",
   "license": "MIT License",
-  "imageUrl": "/images/projects/e_parking_mobile_app/banner.webp",
-  "images": [
-    "/images/projects/e_parking_mobile_app/banner.webp"
-  ],
+  "banner": "/images/projects/e_parking_mobile_app/banner.webp",
   "summary": "A smart urban parking reservation mobile app offering real-time bay tracking, floor-level navigation, and frictionless in-app ticket checkout.",
   "projectDescription": "E-Parking is a mobile UI/UX solution designed to eliminate urban parking congestion in Semarang by providing real-time slot availability, multi-floor parking bay selection, digital ticket activation, and automated in-app payment for a seamless metropolitan parking experience.",
   "architectureSummary": "GPS Geolocation Map -> Real-Time Slot Detection -> Multi-Floor Bay Reservation -> Digital Ticket Counter -> Seamless Payment Gateway",
